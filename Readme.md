@@ -1,3 +1,5 @@
+*Currently just a blank scene. WIP*
+
 # VRC Waypoint
 
 A prefab for creating waypoints in your world, for players to collect & visit.
